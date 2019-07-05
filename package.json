@@ -1,0 +1,32 @@
+{
+  "name": "@obsidiansoft.io/native-modal",
+  "version": "0.1.0",
+  "description": "native modal for webcomponent with litElement",
+  "main": "native-modal.js",
+  "module": "native-modal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obsidiansoft-io/native-modal.git"
+  },
+  "keywords": [
+    "lit-element",
+    "polymer",
+    "native",
+    "webcomponent",
+    "modal"
+  ],
+  "private": false,
+  "author": "quinszouls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/obsidiansoft-io/native-modal/issues"
+  },
+  "homepage": "https://github.com/obsidiansoft-io/native-modal#readme",
+  "dependencies": {
+    "fa-icons": "^0.1.4",
+    "lit-element": "^2.2.0"
+  }
+}
