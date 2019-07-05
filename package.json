@@ -1,6 +1,6 @@
 {
-  "name": "@obsidiansoft.io/native-modal",
-  "version": "0.1.0",
+  "name": "@obsidiansoft/native-modal",
+  "version": "0.1.1",
   "description": "native modal for webcomponent with litElement",
   "main": "native-modal.js",
   "module": "native-modal.js",
