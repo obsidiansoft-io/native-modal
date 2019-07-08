@@ -5,6 +5,7 @@ Native webcomponent modal  for the [Polymer 3](https://www.polymer-project.org/)
 [![license](https://camo.githubusercontent.com/11ad3ffb000cd7668567587af947347c738b6472/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f6c2f657870726573732e7376673f7374796c653d666c61742d737175617265266d61784167653d33363030)](http://opensource.org/licenses/MIT)
 
 <img src="https://github.com/obsidiansoft-io/native-modal/blob/master/docs/ios.png?raw=true" width="400"/>
+
 ## Installation
 
 ```bash
