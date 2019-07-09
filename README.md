@@ -94,5 +94,5 @@ Unless otherwise noted, the fa-icon source files are distributed under the MIT l
 
 ## Sponsorship
 
-Development of the fa-icons is currently sponsored by [ObsidianSoft](https://obsidiansoft.io/) and generously supported by contributions from individuals.
+Development of the native-modal is currently sponsored by [ObsidianSoft](https://obsidiansoft.io/) and generously supported by contributions from individuals.
 
